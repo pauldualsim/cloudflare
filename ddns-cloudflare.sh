@@ -1,5 +1,5 @@
 #!/bin/bash
-## change to "bin/sh" when necessary
+
 
 auth_email="your-email-here-that-you-use-with-cloudflare"      # The email used to login 'https://dash.cloudflare.com'
 auth_method="global"                                 # Set to "global" for Global API Key or "token" for Scoped API Token
