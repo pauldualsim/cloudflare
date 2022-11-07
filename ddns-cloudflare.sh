@@ -1,4 +1,7 @@
 #!/bin/bash
+## This bash script helps you use Dynamic DNS with Cloudflare when you have a dynamic IP from ISP
+## I'm using it to have a subdomain pointed to my Home Network VPN Server 
+## to keep me safe when I travel and to be able to access my Home Network that is beyond a strict firewall policy
 
 
 auth_email="your-email-here-that-you-use-with-cloudflare"      # The email used to login 'https://dash.cloudflare.com'
